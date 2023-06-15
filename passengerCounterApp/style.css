@@ -1,12 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
 #count-el{
     font-size: 40px;
     margin-top:0.5px;
 }
 
-#increment-btn{ 
+button{ 
     border-radius: 20px;
     padding: 10px;
-    background-color: red;
     color: white;
     border: none;
     text-align: center;
@@ -16,16 +20,11 @@
     margin-bottom: 1px;
 }
 
+#increment-btn{ 
+    background-color: red;
+}
 #save-btn{ 
-    border-radius: 20px;
-    padding: 10px;
     background-color: green;
-    color: white;
-    border: none;
-    text-align: center;
-    font-size: 16px;
-    font-weight: bold;
-    width: 200px;
 }
 
 body{
@@ -36,4 +35,5 @@ body{
     height: 100vh;
     padding: 10;  
 }
+ 
  
