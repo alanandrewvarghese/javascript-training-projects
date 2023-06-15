@@ -14,7 +14,7 @@
     font-weight: bold;
     width: 200px;
     margin-bottom: 1px;
-    }
+}
 
 #save-btn{ 
     border-radius: 20px;
@@ -28,12 +28,12 @@
     width: 200px;
 }
 
-body {
+body{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
     padding: 10;  
-  }
+}
  
