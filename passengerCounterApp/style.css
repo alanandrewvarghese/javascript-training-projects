@@ -3,9 +3,11 @@
     padding:0;
     text-align: center;
 }
+
 #count-el{
     font-size: 40px;
-    margin-top:0.5px;
+    margin:2px 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 button{ 
@@ -33,7 +35,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    padding: 10;  
 }
- 
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
  
